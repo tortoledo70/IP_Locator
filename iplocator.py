@@ -15,7 +15,7 @@ print "\033[93m \__    ___/___________    ____  ___________ "
 print "\033[93m   |    |  \_  __ \__  \ _/ ___\/ __ \_  __ \\"
 print "\033[93m   |    |   |  | \// __ \\"+"\  \__\  ___/|  | \/"
 print "\033[93m   |____|   |__|  (____  /\___  >___  >__|   "
-print "\033[93m   Zanyar_Jamal        \/     \/    \/       \n"
+print "\033[93m   Lunatic2            \/     \/    \/       \n"
 
 while True:
 	ip1=raw_input("\033[93m IP Address: ")
@@ -30,7 +30,7 @@ while True:
 	print "\033[93m   |    |  \_  __ \__  \ _/ ___\/ __ \_  __ \\"
 	print "\033[93m   |    |   |  | \// __ \\"+"\  \__\  ___/|  | \/"
 	print "\033[93m   |____|   |__|  (____  /\___  >___  >__|   "
-	print "\033[93m   Zanyar_Jamal        \/     \/    \/       "
+	print "\033[93m   Lunatic2            \/     \/    \/       "
 	
 	print("\033[93m" + "\n IP: " + values['query'])
 	print("\033[93m" + " Status: " + values['status'])
